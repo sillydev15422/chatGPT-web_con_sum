@@ -1,0 +1,29 @@
+We are looking for an experienced Freelance Web Content Aggregator and Summarizer with expertise in GPT-3.5 Turbo integration. As a freelancer, you will be responsible for creating a platform as described below.
+
+Your primary responsibilities will include:
+
+Developing a platform that can accept input of up to 1000 different website URLs, fetch additional links from these websites, and effectively utilize GPT-3.5 Turbo to generate detailed summaries of each website's content and purpose.
+Ensuring the platform is scalable, user-friendly, and capable of handling high volumes of data with minimal latency.
+Continuously optimizing the platform's performance and improving its accuracy by refining the GPT-3.5 Turbo integration and adjusting parameters as needed.
+Option in the backend to feed some additional data as a custom filed for any individual website to provide more info about a website.
+
+Some examples are - https://chatwebpage.com
+
+But a custom version for some internal work.
+
+
+
+
+chat:
+ am looking for a comprehensive dashboard solution that enables users to input a website URL or upload a CSV file containing multiple URLs. The dashboard should then extract and store various details about each website in a database. Users should have the option to download all fields or select specific fields for certain websites.
+
+
+
+The dashboard will crawl up to 25 links from a single homepage provided by the user, and these 25 links will be sent to GPT-3.5T as embeddings to retrieve the following details:
+
+
+
+Web Summary: A detailed summary of the website, including its purpose and offerings. For example, if the URL is http://openai.com, the summary should describe what OpenAI does and the various tools and options it provides.
+Features: A comprehensive list of tools, products, and features available on the website, such as those found on http://openai.com.
+Pricing: A detailed breakdown of the different pricing options available on the website, if applicable. If pricing information is not available, the output should indicate that pricing details are not available.
+Please let me know if you can develop such a solution, along with the estimated time and cost involved in its creation.
